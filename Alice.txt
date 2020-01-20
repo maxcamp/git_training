@@ -6,3 +6,6 @@ Fourth line here for Patrick.
 This line added on github.com for fetching purposes.
 
 This line added for the pull conflict section.
+
+This line for interactive rebase test.
+Even more rebase text.
