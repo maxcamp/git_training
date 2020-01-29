@@ -9,3 +9,5 @@ This line added for the pull conflict section.
 
 This line for interactive rebase test.
 Even more rebase text.
+
+This line added for the section on rewriting history.
