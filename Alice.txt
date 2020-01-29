@@ -3,3 +3,6 @@ Second Line.
 Third line no way.
 Fourth line here for Patrick.
 
+This line added on github.com for fetching purposes.
+
+This line added for the pull conflict section.
